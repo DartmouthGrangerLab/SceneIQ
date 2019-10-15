@@ -2,15 +2,13 @@
 Scene image quality public dataset
 
 ## Description
-Intro
-
 Images were degraded into four JPEG (ISO-10918) quality levels using [ImageJ](https://imagej.nih.gov/ij/).
 
-Please see the below citations for details.
+**Online Dataset:**  41600 image ratings were collected via Mechanical Turk.
 
-**Online Dataset:**  41600 image ratings were collected via Mechanical Turk. See sub-folder for details.
+**Laboratory Dataset:**  ___ image ratings were collected in a controlled laboratory environment at Dartmouth.
 
-**Laboratory Dataset:**  ___ image ratings were collected in a controlled laboratory environment at Dartmouth. See sub-folder for details.
+Please see the subfolders and the below citations for details.
 
 **If you use this dataset, please cite:**
 
