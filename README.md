@@ -9,12 +9,16 @@ Images were degraded into four JPEG (ISO-10918) quality levels using [ImageJ](ht
 
 Please see the subfolders and the below citations for details.
 
+# References
+
 **If you use this dataset, please cite:**
 
-citation TBD
+```E.F.W. Bowen, A. Rodriguez, D. Sowinski, R. Granger, "Visual stream connectivity predicts image quality assessments"```
+
+Code for that paper is available at https://github.com/DartmouthGrangerLab/IQA
 
 **Reference images were acquired from:**
 
-Oliva, A., & Torralba, A. (2001). Modeling the shape of the scene: A holistic representation of the spatial envelope. International journal of computer vision, 42(3), 145-175. https://people.csail.mit.edu/torralba/code/spatialenvelope/
+```A. Oliva and A. Torralba, "Modeling the shape of the scene: A holistic representation of the spatial envelope," International journal of computer vision, vol. 42, pp. 145-175, 2001. https://people.csail.mit.edu/torralba/code/spatialenvelope/ ```
 
-**Contact** elijah.f.bowen.gr@dartmouth.edu with any questions.
+**Contact** Eli Bowen at elijah.floyd.william.bowen@dartmouth.edu with any questions.
