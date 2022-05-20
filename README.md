@@ -21,4 +21,4 @@ Code for that paper is available at https://github.com/DartmouthGrangerLab/IQA
 
 ```A. Oliva and A. Torralba, "Modeling the shape of the scene: A holistic representation of the spatial envelope," International journal of computer vision, vol. 42, pp. 145-175, 2001. https://people.csail.mit.edu/torralba/code/spatialenvelope/ ```
 
-**Contact** Eli Bowen at elijah.floyd.william.bowen@dartmouth.edu with any questions.
+**Contact** Eli Bowen at mail@elibowen.net with any questions.
